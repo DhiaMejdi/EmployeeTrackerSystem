@@ -31,12 +31,14 @@ A desktop-based employee tracking system developed using **C++** and **Qt Framew
 - A C++ compiler (GCC, MSVC, etc.)
 - Git (optional but recommended)
 
-### Clone and Build
+### Clone
 
 ```bash
 git clone https://github.com/DhiaMejdi/EmployeeTrackerSystem.git
 cd EmployeeTrackerSystem
-👨‍💼 Usage
+
+##👨‍💼 Usage
+
 Launch the application.
 
 Add, edit, or delete employee records through the GUI.
